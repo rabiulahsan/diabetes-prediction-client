@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.heading-style {
+  @apply font-bold text-green-500 text-xl mb-4;
+}
+
+.input-style {
+  @apply w-full p-2 border-b border-b-slate-400  focus:outline-none font-semibold text-slate-700;
+}
