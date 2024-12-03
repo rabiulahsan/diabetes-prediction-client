@@ -88,7 +88,7 @@ const Banner = () => {
       <div className="flex items-center justify-center">
         <button className="px-5 py-3 mt-5 font-semibold bg-green-500 text-white rounded-sm hover:bg-green-600">
           <a
-            href="https://github.com/yourusername/diabetes-prediction-model"
+            href="https://github.com/rabiulahsan/diabetes-prediction-model"
             target="blank"
           >
             Model Repository
